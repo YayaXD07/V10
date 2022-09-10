@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
+    "ownerNumber": "6281213023643@s.whatsapp.net", 
+    "ownerName": "YayaXD", 
     "botName": "Neobot",
-    "footer": "© BOTMD | 2022", 
+    "footer": "© YayaXD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -12,6 +12,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Lexxy Official"
+        "author": "YayaXD"
     }
 }
